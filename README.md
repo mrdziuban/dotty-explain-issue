@@ -1,6 +1,7 @@
 # dotty `-explain` issue
 
 This repo demonstrates that enabling the `-explain` flag in Scala 3 (dotty) results in the explanation being printed twice.
+I'm not 100% sure if this is an issue with Scala itself or with sbt.
 
 To reproduce:
 
